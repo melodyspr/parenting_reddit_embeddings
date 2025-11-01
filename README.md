@@ -47,7 +47,7 @@ Imports comments from multiple subreddits:
 
 The notebook requires the following Python libraries:
 
-pandas
+```pandas
 numpy
 gensim
 matplotlib
