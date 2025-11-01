@@ -47,15 +47,15 @@ Imports comments from multiple subreddits:
 
 The notebook requires the following Python libraries:
 
-```pandas
-numpy
-gensim
-matplotlib
-seaborn
-scikit-learn
-nltk
-tqdm
-adjustText
+- pandas
+- numpy
+- gensim
+- matplotlib
+- seaborn
+- scikit-learn
+- nltk
+- tqdm
+- adjustText
 
 
 ---
