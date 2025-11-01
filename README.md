@@ -64,6 +64,7 @@ adjustText
 
 If you use this code or reproduce the analyses, please cite:
 
+```bibtex
 @article{sepahpour2023using,
   title={Using word embeddings to analyse audience effects and individual differences in parenting Subreddits},
   author={Sepahpour-Fard, Melody and Quayle, Michael and Schuld, Maria and Yasseri, Taha},
